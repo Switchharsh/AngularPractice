@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="413208d6-c7c5-44e8-9b92-c1c7e25d6816" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ListProject/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../ListProject/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListProject/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ListProject/src/app/header/header.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListProject/src/app/recipe/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ListProject/src/app/recipe/recipe-detail/recipe-detail.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/basic-highlight/basic-highlight.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/better-highlight/better-highlight.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/unless.directive.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="290WPM3OW5XNjsBvL5qtOM2V8fJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413208d6-c7c5-44e8-9b92-c1c7e25d6816" name="Changes" comment="" />
+      <created>1652250529337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652250529337</updated>
+    </task>
+    <servers />
+  </component>
+</project>
